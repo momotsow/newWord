@@ -1,0 +1,39 @@
+[
+    {
+        "question": "Wheels on cars are attached to a pole called an axle",
+        "options": ["True", "False"],
+        "correctAnswer": "True",
+        "explanation": ""
+
+    },
+    {
+        "question": "Most cars have four wheels, while some have only three wheels, and yet others have many more.",
+        "options": ["True", "False"],
+        "correctAnswer": "True",
+        "explanation": ""
+    },
+    {
+        "question": "There are five different kinds of wheel and axle systems where the wheel turns the axle, and where the axle turns the wheel. (two)",
+        "options": ["True", "False"],
+        "correctAnswer": "False",
+        "explanation": ""
+    },
+    {
+        "question": "In the past, before the wheel was invented, it was very difficult to move things around. People would try to drag heavy things along the ground using ropes, or else they had to carry things.",
+        "options": ["True", "False"],
+        "correctAnswer": "True",
+        "explanation": ""
+    },
+    {
+        "question": "There are two basic types of wheel and axle machines, A machine where the force is applied to the axle and A machine where the force is applied to the wheel.",
+        "options": ["True", "False"],
+        "correctAnswer": "True",
+        "explanation": ""
+    },
+    {
+        "question": "Applying a large force to the axle makes the wheel go faster. Everyday examples of this type of wheel and axle include a bench, a stick and a building – (bicycle, car tyres and electric fan) ",
+        "options": ["True", "False"],
+        "correctAnswer": "False",
+        "explanation": ""
+    }
+]

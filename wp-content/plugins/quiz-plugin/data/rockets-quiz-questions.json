@@ -1,0 +1,51 @@
+[
+    {
+        "question": "Rockets have existed for 10 years only",
+        "options": ["True", "False"],
+        "correctAnswer": "False",
+        "explanation": "Rockets have existed for hundreds of years"
+
+    },
+    {
+        "question": "A force is the amount of push or pull on an object ",
+        "options": ["True", "False"],
+        "correctAnswer": "True",
+        "explanation": ""
+    },
+    {
+        "question": "A Rocket is a chamber enclosing a gas under water",
+        "options": ["True", "False"],
+        "correctAnswer": "False",
+        "explanation": "A Rocket is a chamber enclosing a gas under pressure"
+    },
+    {
+        "question": "Wings of an airplane only work when it moves through air",
+        "options": ["True", "False"],
+        "correctAnswer": "True",
+        "explanation": ""
+    },
+    {
+        "question": "A rocket carries fuel that burns in air",
+        "options": ["True", "False"],
+        "correctAnswer": "False",
+        "explanation": "A rocket carries fuel that burns inside a chamber"
+    },
+    {
+        "question": "The hot gas in a chamber of a rocket expands upwards, sidewards, and downwards",
+        "options": ["True", "False"],
+        "correctAnswer": "True",
+        "explanation": ""
+    },
+    {
+        "question": "One cam make a rocket using a balloon",
+        "options": ["True", "False"],
+        "correctAnswer": "True",
+        "explanation": ""
+    },
+    {
+        "question": "Jet engines work by igniting grass combined with compressed oxygen inside the engine",
+        "options": ["True", "False"],
+        "correctAnswer": "False",
+        "explanation": "Jet engines work by igniting fuel combined with compressed oxygen inside an engine"
+    }
+]

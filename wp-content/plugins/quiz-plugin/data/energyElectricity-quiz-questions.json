@@ -1,0 +1,33 @@
+[
+    {
+        "question": "Batteries are made up of smaller parts, known as cells, which store mechanical energy - (Chemical Energy)",
+        "options": ["True", "False"],
+        "correctAnswer": "False",
+        "explanation": ""
+
+    },
+    {
+        "question": "A cell is a single unit device which converts chemical energy into electrical energy.",
+        "options": ["True", "False"],
+        "correctAnswer": "True",
+        "explanation": ""
+    },
+    {
+        "question": "A battery stores chemical energy which can be converted to electrical energy to provide power in our homes, schools, shops and factories.",
+        "options": ["True", "False"],
+        "correctAnswer": "True",
+        "explanation": ""
+    },
+    {
+        "question": "An electrical circuit is a closed-loop device that provides a path for the flow of electrical current",
+        "options": ["True", "False"],
+        "correctAnswer": "True",
+        "explanation": ""
+    },
+    {
+        "question": "Some rules for using electricity safely include using your wet hands before you plug in or unplug a cord - (Dry hands)",
+        "options": ["True", "False"],
+        "correctAnswer": "False",
+        "explanation": ""
+    }
+]

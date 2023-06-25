@@ -1,0 +1,33 @@
+[
+    {
+        "question": "Nanotechnology is important because of which benefits?",
+        "options": ["It makes balloons to become nanoballoons", "It improves the properties of materials and widens their applications.", "It assists in propelling the rocks and fine tuning their speed."],
+        "correctAnswer": "It improves the properties of materials and widens their applications.",
+        "explanation": ""
+
+    },
+    {
+        "question": "Which of the below describes a nanoscale",
+        "options": ["10-9 m", "103 cm", "10-9 km"],
+        "correctAnswer": "10-9 m",
+        "explanation": ""
+    },
+    {
+        "question": "How small are scent molecules",
+        "options": ["10-12", "10-6", "10-9"],
+        "correctAnswer": "10-9",
+        "explanation": ""
+    },
+    {
+        "question": "Which of the below best describes nanoparticles",
+        "options": ["They are very small and cannot be seen with the naked eye, but their scent can be smelled.", "These particles are physics related and can only be found in space.", "Nanoparticles are under promising research and will be discovered not later than the next 10 years."],
+        "correctAnswer": "They are very small and cannot be seen with the naked eye, but their scent can be smelled.",
+        "explanation": ""
+    },
+    {
+        "question": "Which type of materials can be used to make nanomaterials ",
+        "options": ["Liquids like paraffin and methane.", "All solid materials can be scaled down to nanomaterials.", "Only metals can be scaled down to nanomaterials "],
+        "correctAnswer": "All solid materials can be scaled down to nanomaterials.",
+        "explanation": ""
+    }
+]

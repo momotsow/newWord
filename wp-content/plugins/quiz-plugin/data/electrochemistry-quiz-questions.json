@@ -1,0 +1,33 @@
+[
+    {
+        "question": "Hydrochloric acid is considered a strong acid. This is because_____",
+        "options": ["It has a low pH value, which is approximately 4.", "It has pH value that is greater than 7", "It is made up of noble elements"],
+        "correctAnswer": "It has a low pH value, which is approximately 4.",
+        "explanation": ""
+
+    },
+    {
+        "question": "Why will you not get harmed from touching a lemon battery?",
+        "options": ["The Voltage of lemon batteries is too high", "The Voltage of lemon batteries is too weak", "None of the above"],
+        "correctAnswer": "The Voltage of lemon batteries is too weak",
+        "explanation": ""
+    },
+    {
+        "question": "In lemon battery, the lemon juice is used as which component?.",
+        "options": ["Electrolyte", "Cathode electrode", "Anode electrode"],
+        "correctAnswer": "Electrolyte",
+        "explanation": ""
+    },
+    {
+        "question": "Why are aluminium and copper strips used instead of plastic/wooden strips",
+        "options": ["They are metals", "They are good conductors of electricity.", "They are longer and stronger than wooden strips"],
+        "correctAnswer": "They are good conductors of electricity.",
+        "explanation": ""
+    },
+    {
+        "question": "Where can one work with the knowledge of electrochemistry?",
+        "options": ["Hospitals and clinics", "Battery manufacturing companies", "All of the above"],
+        "correctAnswer": "All of the above",
+        "explanation": ""
+    }
+]

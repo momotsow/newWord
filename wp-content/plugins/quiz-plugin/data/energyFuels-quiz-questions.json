@@ -1,0 +1,33 @@
+[
+    {
+        "question": "There are many different types of energy, and these include nuclear energy and mechanical energy.",
+        "options": ["True", "False"],
+        "correctAnswer": "True",
+        "explanation": ""
+
+    },
+    {
+        "question": "Energy is stored in fuels, and we use these fuels as sources for useful energy.",
+        "options": ["True", "False"],
+        "correctAnswer": "True",
+        "explanation": ""
+    },
+    {
+        "question": "Combustion is a chemical process in which a substance reacts rapidly with oxygen and gives off heat and fire.",
+        "options": ["True", "False"],
+        "correctAnswer": "True",
+        "explanation": ""
+    },
+    {
+        "question": "A fire triangle is made up of Oxygen, Heat and Energy – (Oxygen, heat and Fuel)",
+        "options": ["True", "False"],
+        "correctAnswer": "False",
+        "explanation": ""
+    },
+    {
+        "question": "There are safety rules that we need to know when we are creating fire",
+        "options": ["True", "False"],
+        "correctAnswer": "True",
+        "explanation": ""
+    }
+]

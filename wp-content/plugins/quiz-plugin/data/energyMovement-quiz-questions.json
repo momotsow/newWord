@@ -1,0 +1,21 @@
+[
+    {
+        "question": "We get movement energy when we move, stretch or twist elastic and compressed strings.",
+        "options": ["True", "False"],
+        "correctAnswer": "True",
+        "explanation": ""
+
+    },
+    {
+        "question": "Elastic potential energy is the energy stored as a result of the deformation of an elastic material",
+        "options": ["True", "False"],
+        "correctAnswer": "True",
+        "explanation": ""
+    },
+    {
+        "question": "Elastic is a stiff material that can be stretched but will go back to its original shape when released. – (Flexible)",
+        "options": ["True", "False"],
+        "correctAnswer": "False",
+        "explanation": ""
+    }
+]
